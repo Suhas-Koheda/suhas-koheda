@@ -32,7 +32,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=suhas-koheda&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suhas-koheda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhas-koheda&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhas-koheda&size_weight=0.5&count_weight=0.5&theme=dark)
 # Holopin Badges
 [![An image of @suhaskoheda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suhaskoheda)](https://holopin.io/@suhaskoheda)
 ### ✍️ Random Dev Quote
