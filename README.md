@@ -33,7 +33,7 @@
 ![](https://wakatime.com/share/@018d187a-e9e9-413d-bc20-e3e9ce647cd0/05b0864e-a3ee-4c96-8a3a-864c4b0a0968.svg)
 <!---Coding Stats:
 ![](https://wakatime.com/share/@018d187a-e9e9-413d-bc20-e3e9ce647cd0/695554b2-8649-4b40-8080-3da39e95c0e8.svg) --->
-![](https://github-readme-stats.vercel.app/api?username=suhas-koheda&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://wakatime.com/share/@018d187a-e9e9-413d-bc20-e3e9ce647cd0/1de1e16b-203d-4ce7-9853-4743488c8561.svg)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suhas-koheda&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhas-koheda&size_weight=0.5&count_weight=0.5&theme=dark)
 # Holopin Badges
