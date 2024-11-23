@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web development<br><br>🌱 I’m currently learning Machine Learning<br><br>👯 I’m looking to collaborate on anything that gives me knowledge<br><br>🤝 I’m looking for help with Hackathons<br><br>👨‍💻 All of my projects are available at https://suhassk-hash.github.io/My-Personal-Website/<br><br>💬 Ask me about Java<br><br>📫 How to reach me sharmasuhas450@gmail.com<br><br>📄 Know about my experiences https://skres.tiiny.site/<br><br>⚡ Fun fact I know nothing!
+🔭 I’m currently working on Web development<br><br>🌱 I’m currently learning Machine Learning<br><br>👯 I’m looking to collaborate on anything that gives me knowledge<br><br>🤝 I’m looking for help with Hackathons<br><br>👨‍💻 All of my projects are available at https://suhassk-hash.github.io/My-Personal-Website/<br><br>💬 Ask me about Java<br><br>📫 How to reach me sharmasuhas450@gmail.com<br><br>📄 Know about my experiences [My Resume/](https://unknkwnhaasresume.tiiny.site/)<br><br>⚡ Fun fact I know nothing!
 
 
 ## 🌐 Socials:
