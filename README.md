@@ -2,6 +2,89 @@
 🔭 I’m currently working on Web development<br><br>🌱 I’m currently learning Machine Learning<br><br>👯 I’m looking to collaborate on anything that gives me knowledge<br><br>🤝 I’m looking for help with Hackathons<br><br>👨‍💻 All of my projects are available at https://suhassk-hash.github.io/My-Personal-Website/<br><br>💬 Ask me about Java 8 & 17 <br><br>📫 How to reach me sharmasuhas450@gmail.com<br><br>📄 Know about my experiences [My Resume/](https://unknkwnhaasresume.tiiny.site/)<br><br>⚡ Fun fact I know nothing!
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2055%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 580.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 323 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+🌆 Daytime                171 commits         ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+🌃 Evening                331 commits         ████████████░░░░░░░░░░░░░   46.23 % 
+🌙 Night                  162 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Tuesday                  156 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Wednesday                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Thursday                 126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Friday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Saturday                 115 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Sunday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Kotlin                   4 hrs 24 mins       ████████████░░░░░░░░░░░░░   46.67 % 
+Java                     3 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   40.49 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+XML                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+
+🔥 Editors: 
+Android Studio           6 hrs 39 mins       ██████████████████░░░░░░░   70.62 % 
+IntelliJ IDEA            2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+VS Code                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+
+🐱‍💻 Projects: 
+CodeSwipe                6 hrs 51 mins       ██████████████████░░░░░░░   72.65 % 
+langchain4j-spring       1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+langchain4j              37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Dead-Ideas               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+My Application           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Linux                    9 hrs 25 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+JavaScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Java                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Suhas-Koheda/Suhas-Koheda/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/12/2024 13:17:57 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials:
