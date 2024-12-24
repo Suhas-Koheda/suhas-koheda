@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Web development<br><br>🌱 I’m currently learning Machine Learning<br><br>👯 I’m looking to collaborate on anything that gives me knowledge<br><br>🤝 I’m looking for help with Hackathons<br><br>👨‍💻 All of my projects are available at https://suhassk-hash.github.io/My-Personal-Website/<br><br>💬 Ask me about Java 8 & 17 <br><br>📫 How to reach me sharmasuhas450@gmail.com<br><br>📄 Know about my experiences [My Resume/](https://unknkwnhaasresume.tiiny.site/)<br><br>⚡ Fun fact I know nothing!
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssk450/) 
