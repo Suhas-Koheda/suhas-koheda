@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Web development<br><br>🌱 I’m currently learning Machine Learning<br><br>👯 I’m looking to collaborate on anything that gives me knowledge<br><br>🤝 I’m looking for help with Hackathons<br><br>👨‍💻 All of my projects are available at https://suhassk-hash.github.io/My-Personal-Website/<br><br>💬 Ask me about Java 8 & 17 <br><br>📫 How to reach me sharmasuhas450@gmail.com<br><br>📄 Know about my experiences [My Resume/](https://unknkwnhaasresume.tiiny.site/)<br><br>⚡ Fun fact I know nothing!
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2055%20mins-blue)
 
@@ -87,6 +84,9 @@ CSS                      1 repo              █░░░░░░░░░░�
  Last Updated on 24/12/2024 13:17:57 UTC
 <!--END_SECTION:waka-->
 
+# 💫 About Me:
+👯 I’m looking to collaborate on anything that gives me knowledge<br><br>💬 Ask me about Java 8 & 17 <br><br>📄 Know about my experiences [My Resume/](https://unknkwnhaasresume.tiiny.site/)<br><br>⚡ Fun fact I know nothing!
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssk450/) 
 
@@ -114,13 +114,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://wakatime.com/share/@018d187a-e9e9-413d-bc20-e3e9ce647cd0/05b0864e-a3ee-4c96-8a3a-864c4b0a0968.svg)
-<!---Coding Stats:
-![](https://wakatime.com/share/@018d187a-e9e9-413d-bc20-e3e9ce647cd0/695554b2-8649-4b40-8080-3da39e95c0e8.svg) 
-![](https://wakatime.com/share/@018d187a-e9e9-413d-bc20-e3e9ce647cd0/1de1e16b-203d-4ce7-9853-4743488c8561.svg)<br/> --->
-![](https://github-readme-streak-stats.herokuapp.com/?user=suhas-koheda&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhas-koheda&size_weight=0.5&count_weight=0.5&theme=dark)
+
 # Holopin Badges
 [![An image of @suhaskoheda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suhaskoheda)](https://holopin.io/@suhaskoheda)
 ### ✍️ Random Dev Quote
