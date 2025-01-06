@@ -31,13 +31,18 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 18 mins        ████████████████████░░░░░   79.89 % 
+Java                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WebProgLab               1 hr 18 mins        ████████████████████░░░░░   80.75 % 
+langchain4j-spring       18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+langchain4j              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -57,7 +62,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Suhas-Koheda/Suhas-Koheda/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2025 13:31:24 UTC
+ Last Updated on 06/01/2025 13:35:06 UTC
 <!--END_SECTION:waka-->
 
 # 💫 About Me:
