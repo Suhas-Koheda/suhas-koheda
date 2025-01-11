@@ -1,17 +1,19 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2052%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 580.2 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2025
+> 🏆 4 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 14 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 15 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -62,7 +64,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Suhas-Koheda/Suhas-Koheda/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2025 13:33:20 UTC
+ Last Updated on 11/01/2025 05:27:21 UTC
 <!--END_SECTION:waka-->
 
 # 💫 About Me:
