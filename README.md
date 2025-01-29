@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,7 +58,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Suhas-Koheda/Suhas-Koheda/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2025 13:32:38 UTC
+ Last Updated on 29/01/2025 13:34:16 UTC
 <!--END_SECTION:waka-->
 
 # 💫 About Me:
