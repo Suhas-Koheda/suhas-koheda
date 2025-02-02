@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -31,13 +31,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   25 mins             ███████████░░░░░░░░░░░░░░   42.89 % 
+TypeScript               17 mins             ████████░░░░░░░░░░░░░░░░░   30.73 % 
+GitIgnore file           14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+My Application           24 mins             ███████████░░░░░░░░░░░░░░   42.06 % 
+the-dusky-muse-store     18 mins             ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Unknown Project          14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+kotlinproject            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+CodeSwipe                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -57,7 +65,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Suhas-Koheda/Suhas-Koheda/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 13:28:58 UTC
+ Last Updated on 02/02/2025 13:29:04 UTC
 <!--END_SECTION:waka-->
 
 # 💫 About Me:
