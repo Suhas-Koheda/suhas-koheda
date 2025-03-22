@@ -55,10 +55,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Suhas-Koheda/Suhas-Koheda/main/assets/bar_graph.png)
-
 
  Last Updated on 20/03/2025 13:38:55 UTC
 <!--END_SECTION:waka-->
