@@ -1,25 +1,25 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 583.3 kB Used in GitHub's Storage 
+> 📦 580.5 kB Used in GitHub's Storage 
  > 
-> 🏆 221 Contributions in the Year 2025
+> 🏆 261 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 16 Private Repositories 
+> 🔑 13 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-🌆 Daytime                230 commits         ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-🌃 Evening                413 commits         ███████████░░░░░░░░░░░░░░   45.14 % 
-🌙 Night                  212 commits         ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+🌞 Morning                59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+🌆 Daytime                236 commits         ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+🌃 Evening                418 commits         ███████████░░░░░░░░░░░░░░   45.48 % 
+🌙 Night                  206 commits         ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
 ```
 
 
@@ -29,34 +29,41 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 12 mins       ██████████████████████░░░   88.93 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Kotlin                   14 hrs 56 mins      ██████████████░░░░░░░░░░░   56.60 % 
+TypeScript               7 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+Java                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+JavaScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🐱‍💻 Projects: 
-the-dusky-muse-store     7 hrs 48 mins       ████████████████████████░   96.39 % 
-WebDevLab                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+the-dusky-muse-store     7 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+habitt                   5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+project                  4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+kotlinproject            1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+EasyShare                1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 💻 Operating System: 
-Linux                    8 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    26 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-HTML                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-Kotlin                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+HTML                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Kotlin                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
+**Timeline**
 
- Last Updated on 20/03/2025 13:38:55 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/Suhas-Koheda/Suhas-Koheda/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/03/2025 13:33:16 UTC
 <!--END_SECTION:waka-->
 
 # 💫 About Me:
