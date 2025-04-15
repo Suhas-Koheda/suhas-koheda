@@ -16,4 +16,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_EDITORS : false
           SHOW_DAYS_OF_WEEK : false
-          
+      - name: GitHub-Profile-3D-Contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.9.0
