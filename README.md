@@ -1,11 +1,18 @@
 <!--START_SECTION:waka-->
 
-```txt
-Kotlin            5 hrs 25 mins   ████████████▒░░░░░░░░░░░░   48.95 %
-TypeScript        2 hrs 55 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
-JavaScript        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Docker            28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Bash              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+```markdown
+From: 02 June 2024 - To: 02 June 2025
+
+Total Time: 306 hrs 37 mins
+
+TypeScript             148 hrs 48 mins ████████████░░░░░░░░░░░░░   48.20 %
+Kotlin                 80 hrs 17 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
+Java                   23 hrs 10 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+JavaScript             11 hrs 7 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Dart                   7 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+CSS                    5 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+XML                    4 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+HTML                   4 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
