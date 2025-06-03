@@ -1,70 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 583.8 kB Used in GitHub's Storage 
- > 
-> 🏆 431 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 14 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-🌆 Daytime                273 commits         ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-🌃 Evening                514 commits         ████████████░░░░░░░░░░░░░   47.03 % 
-🌙 Night                  230 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+```txt
+Kotlin            5 hrs 25 mins   ████████████▒░░░░░░░░░░░░   48.95 %
+TypeScript        2 hrs 55 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
+JavaScript        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Docker            28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Bash              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Kotlin                   11 hrs 41 mins      ███████████████░░░░░░░░░░   61.81 % 
-TypeScript               2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Docker                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-
-🐱‍💻 Projects: 
-rm                       6 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.20 % 
-RecuritrManager          6 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.20 % 
-KotlinAgents             3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-the-dusky-muse-store     2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-
-💻 Operating System: 
-Linux                    18 hrs 55 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Kotlin                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Suhas-Koheda/Suhas-Koheda/main/assets/bar_graph.png)
-
-
- Last Updated on 01/06/2025 13:38:46 UTC
 <!--END_SECTION:waka-->
 
 # 💫 About Me:
