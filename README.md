@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 27 July 2024 - To: 27 July 2025
+From: 28 July 2024 - To: 28 July 2025
 
-Total Time: 361 hrs 23 mins
+Total Time: 362 hrs 27 mins
 
-TypeScript             165 hrs 55 mins ███████████▒░░░░░░░░░░░░░   45.63 %
-Kotlin                 88 hrs 55 mins  ██████░░░░░░░░░░░░░░░░░░░   24.45 %
-Java                   23 hrs 23 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Python                 16 hrs 22 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-JavaScript             11 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Jupyter                8 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Dart                   7 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+TypeScript             165 hrs 55 mins ███████████▒░░░░░░░░░░░░░   45.48 %
+Kotlin                 88 hrs 55 mins  ██████░░░░░░░░░░░░░░░░░░░   24.38 %
+Java                   23 hrs 23 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Python                 16 hrs 22 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+JavaScript             11 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Jupyter                8 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Dart                   7 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 CSS                    5 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
