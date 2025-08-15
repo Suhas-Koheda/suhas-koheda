@@ -1,9 +1,10 @@
 <!--START_SECTION:waka-->
-
+<img width="2109" height="1289" alt="out" src="https://github.com/user-attachments/assets/ed5c30aa-e784-4164-90ea-ca4c47d189ed" />
 ```markdown
 From: 14 August 2024 - To: 14 August 2025
 
 Total Time: 367 hrs 4 mins
+
 
 TypeScript             165 hrs 55 mins ███████████▒░░░░░░░░░░░░░   44.91 %
 Kotlin                 89 hrs 49 mins  ██████░░░░░░░░░░░░░░░░░░░   24.31 %
