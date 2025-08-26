@@ -3,18 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 24 August 2024 - To: 24 August 2025
+From: 25 August 2024 - To: 25 August 2025
 
-Total Time: 364 hrs 43 mins
+Total Time: 364 hrs 46 mins
 
 TypeScript             168 hrs 20 mins ███████████▒░░░░░░░░░░░░░   45.86 %
-Kotlin                 90 hrs 6 mins   ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+Kotlin                 90 hrs 6 mins   ██████░░░░░░░░░░░░░░░░░░░   24.54 %
 Java                   27 hrs 7 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
 Python                 17 hrs 8 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 JavaScript             10 hrs 19 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 Jupyter                8 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 XML                    4 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Markdown               4 hrs 53 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Markdown               4 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
