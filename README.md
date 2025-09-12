@@ -3,18 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 10 September 2024 - To: 10 September 2025
+From: 11 September 2024 - To: 11 September 2025
 
-Total Time: 347 hrs 23 mins
+Total Time: 349 hrs 49 mins
 
-TypeScript             157 hrs 50 mins ███████████▒░░░░░░░░░░░░░   45.13 %
-Kotlin                 90 hrs 25 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
-Java                   27 hrs 3 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-Python                 17 hrs 8 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Jupyter                8 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-JavaScript             5 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Markdown               5 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-XML                    4 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+TypeScript             157 hrs 50 mins ███████████▒░░░░░░░░░░░░░   44.82 %
+Kotlin                 90 hrs 25 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
+Java                   27 hrs 3 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Python                 19 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Jupyter                8 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+JavaScript             5 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Markdown               5 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+XML                    4 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
