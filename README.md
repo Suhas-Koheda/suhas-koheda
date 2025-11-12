@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 10 November 2024 - To: 10 November 2025
+From: 11 November 2024 - To: 11 November 2025
 
 Total Time: 363 hrs 35 mins
 
