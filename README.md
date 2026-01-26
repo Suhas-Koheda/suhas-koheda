@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 23 January 2025 - To: 23 January 2026
+From: 25 January 2025 - To: 25 January 2026
 
-Total Time: 328 hrs 27 mins
+Total Time: 328 hrs 43 mins
 
-TypeScript             138 hrs 25 mins ██████████▒░░░░░░░░░░░░░░   41.84 %
-Kotlin                 99 hrs 4 mins   ███████▒░░░░░░░░░░░░░░░░░   29.95 %
-Python                 35 hrs 52 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+TypeScript             138 hrs 25 mins ██████████▒░░░░░░░░░░░░░░   41.81 %
+Kotlin                 99 hrs 4 mins   ███████▒░░░░░░░░░░░░░░░░░   29.92 %
+Python                 36 hrs 8 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
 Jupyter                8 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 Java                   6 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 JavaScript             5 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
