@@ -3,18 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 03 February 2025 - To: 03 February 2026
+From: 04 February 2025 - To: 04 February 2026
 
-Total Time: 324 hrs 35 mins
+Total Time: 322 hrs 33 mins
 
-TypeScript             136 hrs         ██████████▒░░░░░░░░░░░░░░   41.60 %
-Kotlin                 97 hrs 38 mins  ███████▒░░░░░░░░░░░░░░░░░   29.86 %
-Python                 36 hrs 8 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-Jupyter                8 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Java                   6 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-JavaScript             5 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Markdown               4 hrs 50 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Go                     4 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+TypeScript             134 hrs 4 mins  ██████████▒░░░░░░░░░░░░░░   41.26 %
+Kotlin                 97 hrs 38 mins  ███████▓░░░░░░░░░░░░░░░░░   30.05 %
+Python                 36 hrs 8 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+Jupyter                8 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Java                   6 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+JavaScript             5 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Markdown               4 hrs 47 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Go                     4 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
