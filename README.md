@@ -3,16 +3,16 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 10 April 2025 - To: 10 April 2026
+From: 11 April 2025 - To: 11 April 2026
 
-Total Time: 169 hrs
+Total Time: 168 hrs 34 mins
 
-Kotlin             66 hrs 46 mins        █████████▓░░░░░░░░░░░░░░░   39.25 %
-Python             36 hrs 47 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
-TypeScript         27 hrs 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
-Jupyter            8 hrs 38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Kotlin             66 hrs 21 mins        █████████▓░░░░░░░░░░░░░░░   39.10 %
+Python             36 hrs 47 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+TypeScript         27 hrs 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+Jupyter            8 hrs 38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
 Java               4 hrs 50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Go                 4 hrs 34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Go                 4 hrs 34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 Markdown           3 hrs                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 TOML               2 hrs 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
