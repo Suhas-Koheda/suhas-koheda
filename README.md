@@ -3,16 +3,16 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 09 June 2025 - To: 09 June 2026
+From: 10 June 2025 - To: 10 June 2026
 
-Total Time: 107 hrs 26 mins
+Total Time: 107 hrs 29 mins
 
-Python             38 hrs 22 mins        █████████░░░░░░░░░░░░░░░░   35.58 %
-Kotlin             27 hrs 10 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
-TypeScript         18 hrs 28 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+Python             38 hrs 49 mins        █████████░░░░░░░░░░░░░░░░   35.98 %
+Kotlin             27 hrs 10 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
+TypeScript         18 hrs 28 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
 Java               4 hrs 42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
 Go                 4 hrs 34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Jupyter            4 hrs 21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Jupyter            3 hrs 57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 Markdown           1 hr 38 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 Text               1 hr 35 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
