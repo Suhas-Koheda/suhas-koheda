@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 04 August 2025 - To: 04 August 2026
+From: 05 August 2025 - To: 05 August 2026
 
 Total Time: 62 hrs 52 mins
 
