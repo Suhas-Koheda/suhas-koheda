@@ -62,3 +62,13 @@ Java              56 mins               ▒░░░░░░░░░░░░�
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ```
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/6zhqb1pc6s5ze65dd4yjnomr-dark.svg?v=1786434280289">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/6zhqb1pc6s5ze65dd4yjnomr-light.svg?v=1786434280289">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/6zhqb1pc6s5ze65dd4yjnomr-dark.svg?v=1786434280289">
+</picture>
+<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
+<!-- GITHUBWALLPAPER:END -->
